@@ -15,6 +15,7 @@ public class nullPointer {
         orijinal hali icin kodu kullanilir hale getirin
         asdasdasda
         asda
+        asdasd
         */
 
     }

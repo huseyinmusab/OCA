@@ -4,6 +4,7 @@ public class Constructor01 {
 
         int count;
 
+
         public void Constructor01() {
             count = 4;
         }

@@ -16,6 +16,7 @@ public class StringManipulations01 {
         E. A blank line.
         F. An exception is thrown.
         G. The code does not compile.
+        asdasda
 
 dasdas
          */

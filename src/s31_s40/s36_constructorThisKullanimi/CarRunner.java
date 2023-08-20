@@ -11,10 +11,12 @@ public class CarRunner {
                            ", Model: " + car1.model+
                            ", Yil : " + car1.yil );
                             // Marka : Toyota Model: Corolla Yil : 2020
+
         Car car2=new Car("Opel","Corsa");
         System.out.println("Marka : " + car2.marka +
                             ", Model: " + car2.model);
                         // Marka : Opel, Model: Corsa
+
 
         Car car3= new Car("Tofas","Sahin");
         System.out.println("Marka : " + car3.marka +
